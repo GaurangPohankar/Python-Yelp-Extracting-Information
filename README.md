@@ -7,4 +7,6 @@ pip install selenium
 pip install xlrd
 
 
-And After installing the libs . Run Yelp.py
+And After installing the libs . Run Yelp.py .
+
+I have used geckodriver for ubuntu 18.04 so change it acccordingly .
